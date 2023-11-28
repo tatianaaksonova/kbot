@@ -1,6 +1,6 @@
 module github.com/tatianaaksonova/kbot
 
-go 1.21.4
+go 1.20
 
 require (
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
